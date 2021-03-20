@@ -1,10 +1,48 @@
-.carousel-item{
-  width: 1300px;
-  height: 500px;
+
+
+.navbar{
+  background-color:#151515;
 }
 .navbar-brand{
+  font-family: 'Montserrat', sans-serif;
 padding: 2% 0% 2% 10%;
 }
 .navbar-collapse{
   padding: 2% 10% 2% 0%;
+}
+.carousel-item img{
+  width: 1300px;
+  height: 500px;
+
+}
+.slides{
+  padding: 0% 0% 0% 0%;
+}
+.quote{
+  background-color: inherit;
+  font-family: 'Montserrat', sans-serif;
+  position: absolute;
+  text-align: center;
+  vertical-align: middle;
+  padding: 10% 10% 10% 10%;
+}
+.services{
+  padding: 5% 0% 0% 0%;
+  background-color:#fff;
+}
+.head{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  text-decoration-color: #fff;
+}
+.first-row {
+  font-family: 'Montserrat', sans-serif;
+  margin: 3% 10% 0% 10%;
+}
+.service{
+  padding-top: 2%;
+}
+.second-row{
+  font-family: 'Montserrat', sans-serif;
+  margin: 0% 10% 5% 10%;
 }
