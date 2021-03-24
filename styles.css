@@ -10,7 +10,6 @@ padding: 2% 0% 2% 10%;
 .navbar-collapse{
   padding: 2% 10% 2% 0%;
 }
-<<<<<<< HEAD
 .carousel-item img{
   width: 1300px;
   height: 500px;
@@ -18,14 +17,6 @@ padding: 2% 0% 2% 10%;
 }
 .slides{
   padding: 0% 0% 0% 0%;
-=======
-.carousel-item{
-  width: 1300px;
-  height: 500px;
-}
-.slides{
-  padding-: 0% 0% 0% 0%;
->>>>>>> aea07fba1484ca1334ea02aeed74116de9b7dc38
 }
 .quote{
   background-color: inherit;
@@ -46,7 +37,6 @@ padding: 2% 0% 2% 10%;
 }
 .first-row {
   font-family: 'Montserrat', sans-serif;
-<<<<<<< HEAD
   margin: 3% 10% 0% 10%;
 }
 .service{
@@ -55,11 +45,4 @@ padding: 2% 0% 2% 10%;
 .second-row{
   font-family: 'Montserrat', sans-serif;
   margin: 0% 10% 5% 10%;
-=======
-  margin: 5% 5% 5% 5%;
-}
-.second-row{
-  font-family: 'Montserrat', sans-serif;
-  margin: 5% 5% 5% 5%;
->>>>>>> aea07fba1484ca1334ea02aeed74116de9b7dc38
 }
