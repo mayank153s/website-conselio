@@ -1,5 +1,7 @@
-
-
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Montserrat', sans-serif;
+}
+/* navigation bar */
 .navbar{
   background-color:#151515;
 }
@@ -15,6 +17,8 @@ padding: 2% 0% 2% 10%;
   height: 500px;
 
 }
+
+/* slides */
 .slides{
   padding: 0% 0% 0% 0%;
 }
@@ -26,6 +30,9 @@ padding: 2% 0% 2% 10%;
   vertical-align: middle;
   padding: 10% 10% 10% 10%;
 }
+
+
+/* services */
 .services{
   padding: 5% 0% 0% 0%;
   background-color:#fff;
@@ -35,14 +42,38 @@ padding: 2% 0% 2% 10%;
   text-align: center;
   text-decoration-color: #fff;
 }
+.card-title{
+  text-align: center;
+}
+.service-block{
+  margin:3% 10% 0% 10%;
+}
 .first-row {
   font-family: 'Montserrat', sans-serif;
-  margin: 3% 10% 0% 10%;
-}
-.service{
-  padding-top: 2%;
 }
 .second-row{
+
   font-family: 'Montserrat', sans-serif;
-  margin: 0% 10% 5% 10%;
+}
+.service{
+  margin-top: 2%;
+}
+
+/* about us */
+.about-us{
+  margin: 5% 0% 0% 0%;
+  padding-top: 5%;
+  background-color:#151515;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+p{
+  padding: 0% 7% 5% 7%;
+}
+
+
+/* contact-us */
+.white-section{
+  text-align:center;
+
 }
