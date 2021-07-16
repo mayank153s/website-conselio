@@ -1,3 +1,5 @@
+// npx babel --watch src --out-dir . --presets react-app/prod
+
 'use strict';
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
@@ -42,18 +44,3 @@ var LikeButton = function (_React$Component) {
 
 var domContainer = document.querySelector('#like_button_container');
 ReactDOM.render(e(LikeButton), domContainer);
-ReactDOM.render(React.createElement(
-  'h1',
-  null,
-  'ffsfsdsffds'
-), document.getElementById("root1"));
-ReactDOM.render(React.createElement(
-  'h1',
-  null,
-  'dsffsdfs'
-), document.getElementById("root2"));
-ReactDOM.render(React.createElement(
-  'h1',
-  null,
-  'ddsfsfsfsfdfsdg'
-), document.getElementById("root3"));

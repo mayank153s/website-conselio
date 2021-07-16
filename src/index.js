@@ -1,3 +1,5 @@
+// npx babel --watch src --out-dir . --presets react-app/prod
+
 'use strict';
 
 const e = React.createElement;
@@ -22,8 +24,5 @@ class LikeButton extends React.Component {
 }
 const domContainer = document.querySelector('#like_button_container');
 ReactDOM.render(e(LikeButton), domContainer);
-ReactDOM.render(<h1>ffsfsdsffds</h1>, document.getElementById("root1"));
-ReactDOM.render(<h1>dsffsdfs</h1>, document.getElementById("root2"));
-ReactDOM.render(<h1>ddsfsfsfsfdfsdg</h1>, document.getElementById("root3"));
 
 
